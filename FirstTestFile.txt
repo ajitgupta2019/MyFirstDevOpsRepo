@@ -1,2 +1,3 @@
 Hello Ajit,
 This is your first test file in GITHUb.
+Updating the file to check commit.
