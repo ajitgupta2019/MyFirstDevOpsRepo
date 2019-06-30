@@ -1,4 +1,4 @@
 Hello Ajit,
 This is your first test file in GITHUb.
-Updating the file to check commit.
+Updating the file to check commit, updating in branhc to check merge in master.
 create new branch for for this file
